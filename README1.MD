@@ -8,6 +8,7 @@ Maximum number
 Minimum number
 Average value
 
+
 #include<bits/stdtr1c++.h>
 using namespace std;
 class Analyzer{
